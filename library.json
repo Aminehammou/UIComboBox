@@ -13,7 +13,7 @@
   "authors": [],
   "license": "MIT",
   "dependencies": {
-    "UITextComponent": "*",
+    "UITextComponent": "https://github.com/Aminehammou/UITextComponent.git",
     "UILabel": "*",
     "ThemeManager": "*"
   }
