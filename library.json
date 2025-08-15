@@ -14,7 +14,7 @@
   "license": "MIT",
   "dependencies": {
     "UITextComponent": "https://github.com/Aminehammou/UITextComponent.git",
-    "UILabel": "*",
+    "UILabel": "https://github.com/Aminehammou/UILabel.git",
     "ThemeManager": "*"
   }
 }
