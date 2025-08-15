@@ -1,0 +1,20 @@
+{
+  "name": "UIComboBox",
+  "version": "1.0.0",
+  "description": "Composant d'interface utilisateur de type liste déroulante (combo box).",
+  "keywords": [
+    "ui",
+    "component",
+    "combobox",
+    "dropdown",
+    "select",
+    "input"
+  ],
+  "authors": [],
+  "license": "MIT",
+  "dependencies": {
+    "UITextComponent": "*",
+    "UILabel": "*",
+    "ThemeManager": "*"
+  }
+}
